@@ -1,0 +1,22 @@
+RELATÓRIO DE CONSULTAS DO MÉDICO CRM: 4
+========================================
+ID Consulta: 4
+Nome Paciente: Jose Ernesto
+Hora: 08:00:00
+Data: 2025-06-23
+----------------------------------------
+ID Consulta: 5
+Nome Paciente: Amanda Morais Marra
+Hora: 08:30:00
+Data: 2025-06-23
+----------------------------------------
+ID Consulta: 8
+Nome Paciente: Roberto Josnaldo
+Hora: 09:00:00
+Data: 2025-06-23
+----------------------------------------
+ID Consulta: 13
+Nome Paciente: Alberto Sacha
+Hora: 09:30:00
+Data: 2025-06-23
+----------------------------------------

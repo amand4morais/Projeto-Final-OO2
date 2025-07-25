@@ -1,0 +1,17 @@
+RELATÓRIO DE CONSULTAS
+=======================
+ID Consulta: 5
+Médico: Silvio Moraes
+Hora: 08:30:00
+Data: 2025-06-23
+-------------------------------
+
+RELATÓRIO DE EXAMES
+=======================
+ID Agendamento: 9
+Nome Exame: Tomografia
+CRM Médico: 6
+Hora: 08:30:00
+Data: 2025-06-24
+Valor (R$): 50.0
+-------------------------------

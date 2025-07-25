@@ -1,0 +1,8 @@
+RELATÓRIO DE EXAMES DO EXAME: Tomografia
+========================================
+ID Exame: 9
+Médico Requisitante: Ricardo Eineck
+Nome Paciente: Amanda Morais Marra
+Hora: 08:30:00
+Data: 2025-06-24
+----------------------------------------
