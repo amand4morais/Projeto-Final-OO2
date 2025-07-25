@@ -5,6 +5,7 @@ Para iniciar a configuração do projeto "ClinicaMedica", deve-se inicialmente b
 Baixado o arquivo com as classes e as janelas do projeto, agora, será necessário ativar e configurar o banco de dados da aplicação. Inicialmente, deve-se instalar a biblioteca externa "my-sql-connector.jar", para isso, clique com o botão direito na raiz do projeto -> Properties -> Java Build Path -> ModulePath -> Add External JARs. Ao abrir a janela do explorador de arquivos, selecione o arquivo ".jar" com o mesmo nome do respectivo arquivo citado acima. 
 
 Feito isso, será necessário definir também a porta de conexão da base de dados com as propriedades necessárias. Para isso, clique novamente com o botão direito na raiz do projeto -> New -> File; Nomeie este arquivo como "database.properties" e cole o seguinte texto:
+
     user=root
     password=
     dburl=jdbc:mysql://localhost:3306/sistemamedico
